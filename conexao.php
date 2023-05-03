@@ -1,7 +1,7 @@
 <?php
-$servidor = "localhost";
-$usuario = "root";
-$senha = "";
+$servidor = "dbserverelder.mysql.database.azure.com";
+$usuario = "admin1";
+$senha = "S#nai115";
 $dbname = "carros";
 
 // criar a conexão - string de conexão
